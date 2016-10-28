@@ -1,0 +1,43 @@
+body {
+  padding: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+html{
+
+}
+
+#jum_front {
+  /*background-img: url('image1/pink.jpg');*/
+  font-family: "Times New Roman", Times, serif;
+}
+#ghibli {
+  text-align: center;
+}
+
+#sisdac {
+  text-align: center;
+}
+#for-resume {
+  /*background-img: url('image1/pink.jpg');*/
+  font-family: "Times New Roman", Times, serif;
+}
+#info
+{
+  text-align: center;
+}
+
+#accodion {
+  padding-right: 120px;
+}
+
+#dwn-resume {
+  float: right;
+}
+
+a.visited {
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
